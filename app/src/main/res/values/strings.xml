@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidRateLibrary</string>
+
+
+    <string name="rate_dialog_title">Please rate Me !</string>
+    <string name="rate_dialog_message">Would you like our service, Please rate me on play store... </string>
+    <string name="rate_dialog_ok">rate now</string>
+    <string name="rate_dialog_cancel">remind later</string>
+    <string name="rate_dialog_no">No,Thanks</string>
+</resources>
